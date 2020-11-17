@@ -1,0 +1,16 @@
+#div1 {
+    width: 350px;
+    height: 190px;
+    padding: 10px;
+    border: 1px solid #aaaaaa;
+  }
+
+  .backBlue {
+    background: blue;
+  }
+
+  .backRed {
+    background: Red;
+  }
+
+  
